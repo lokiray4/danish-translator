@@ -1,0 +1,7 @@
+openai-whisper
+fastapi
+uvicorn
+deep-translator
+python-multipart
+torch
+ffmpeg-python
